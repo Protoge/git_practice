@@ -3,3 +3,5 @@ const greet = (name) => {
 }
 
 module.exports = greet
+
+// NOTES FOR COMMIT
